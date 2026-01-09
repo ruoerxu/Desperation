@@ -24,3 +24,35 @@ The player awakens in an abandoned laboratory filled iwth the remains of failed 
 - Environmental puzzles gate story and progression
 ### Power-Ups
 - Temporary buffs such as speed boosts or night vision
+
+## Characters
+# The Player
+a kidnapped test subject with no combat abilities, forced to rely on stealth, movement, and intelligence to survive.
+# The Monster
+A formaer head scientist whose desperation to cure cancer led to inhumane experiments. After mutating himself, he now stalks the laboratory, hunting any remaining survivors.
+
+## Narrative & World
+- Large interconnected laboratory environment
+- Environmental storytelling though notes and recordings
+- Backstory reveals the scientist's moral descent and manipulation of colleagues
+- Exploation rewards players with lore and gameplay advantages
+
+## Technology & Implementation
+- Unreal Engine 5
+- Blueprint-based gameplay systems
+- Ai-driven enemy behaviors (patrol, chase, search)
+- Dynamic lighting and sound design for horror atmosphere
+
+## Inspirations
+- Outlast - stealth-focused horror gameplay
+- alien: Isolation - AI-driven enemy stalking and tension
+
+## Project Status
+- Platform: PC
+- Development Stage: in progress
+- Playable demo: Coming Soon
+- Gameplay video: Coming Soon
+
+## License
+Source code in this repository is licensed under the MIT License.
+
