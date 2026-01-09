@@ -26,9 +26,9 @@ The player awakens in an abandoned laboratory filled iwth the remains of failed 
 - Temporary buffs such as speed boosts or night vision
 
 ## Characters
-# The Player
+### The Player
 a kidnapped test subject with no combat abilities, forced to rely on stealth, movement, and intelligence to survive.
-# The Monster
+### The Monster
 A formaer head scientist whose desperation to cure cancer led to inhumane experiments. After mutating himself, he now stalks the laboratory, hunting any remaining survivors.
 
 ## Narrative & World
