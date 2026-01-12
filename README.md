@@ -58,6 +58,12 @@ A formaer head scientist whose desperation to cure cancer led to inhumane experi
 - Implemented interacteve puzzle systems (keypads, switchboard)
 - Developed skill-check mechanics
 - Created the buff timer UI
+
+## Example System: Switchboard
+![Switchboard](docs/Switchboard.png)
+
+## Example System: Keypad
+![Keypad](docs/Keypad.png)
   
 ## License
 Source code in this repository is licensed under the MIT License.
