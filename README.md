@@ -53,6 +53,12 @@ A formaer head scientist whose desperation to cure cancer led to inhumane experi
 - Playable demo: Coming Soon
 - Gameplay video: Coming Soon
 
+## My Contributions
+- Designed and built the laboratory level and layout
+- Implemented interacteve puzzle systems (keypads, switchboard)
+- Developed skill-check mechanics
+- Created the buff timer UI
+  
 ## License
 Source code in this repository is licensed under the MIT License.
 
