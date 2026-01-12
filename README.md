@@ -1,5 +1,5 @@
 # Desperation
-a horror game built in Unreal Engine 5 using Blueprints
+A horror game built in Unreal Engine 5 using Blueprints
 
 ## Overview
 Desperation is a PC horror game where the player is a human test subject trapped inside a ruined laboratory. Too weak to fight directly, the player must rely on stealth and quick reactions to escape while being hunted by a relentless monster.
